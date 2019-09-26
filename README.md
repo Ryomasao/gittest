@@ -45,6 +45,10 @@ https://xuwei-k.hatenablog.com/entry/20130611/1370846923
 git remote set-url upstream --push no-push
 ```
 
+## story1
+fork元で変更を行う
+
+
 
 
 
