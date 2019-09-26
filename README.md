@@ -48,6 +48,7 @@ git remote set-url upstream --push no-push
 ## story1
 fork元で変更を行う
 
+さらにcommitをひとつ進める
 
 
 
