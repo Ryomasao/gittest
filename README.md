@@ -67,6 +67,11 @@ git fetch upstream/master
 ## git rebase -i
 これを複数回にわける
 
+## git rebase -i
+## git rebase -i
+これを複数回にわける
+これを複数回にわける
+
 
 
 
