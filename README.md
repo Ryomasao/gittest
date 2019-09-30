@@ -47,8 +47,27 @@ git remote set-url upstream --push no-push
 
 ## story1
 fork元で変更を行う
-
 さらにcommitをひとつ進める
+```
+git push origin master
+```
+
+この状態で、fork先でさきほどの変更を手元に取り込む
+
+```
+git fetch upstream/master
+```
+
+`upstream/master`は、リモートリポジトリ`upstream`を追跡するリモート追跡ブランチ。
+`git fetch`することで、このリモート追跡ブランチに変更を取り込んでいる。
+リモート追跡<strong>ブランチ</strong>なので、`git log upstream/master`だって当然できる。
+
+
+
+
+
+
+
 
 
 
