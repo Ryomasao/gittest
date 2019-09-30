@@ -64,6 +64,8 @@ git fetch upstream/master
 
 
 
+## git rebase -i
+これを複数回にわける
 
 
 
