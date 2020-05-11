@@ -1,6 +1,9 @@
 # gittest
 Gitのテスト
 
+さくっと書く、gistのメモ
+https://gist.github.com/Ryomasao/5b76109bdb20d2f1ae3a4ee7d416a99c
+
 # 基礎知識
 https://qiita.com/_ha1f/items/2dca1047c57d4f0bd465
 https://made.livesense.co.jp/entry/2017/08/22/080000
